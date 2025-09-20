@@ -20,10 +20,10 @@ Permite realizar operaciones matemáticas simples como suma, resta, multiplicaci
 📂 Estructura del proyecto
   Calculadora/
   │── src/
-  │   └── calculadora.py       # Código fuente principal
+  │   └── calculadora.py
   │── assets/
-  │   └── calculadora.ico      # Icono de la calculadora
-  │── README.md                # Documentación del proyecto
+  │   └── calculadora.ico
+  │── README.md
 
 📖 Instrucciones de uso
   1. Clonar el repositorio o descargar los archivos.
