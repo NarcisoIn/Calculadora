@@ -18,13 +18,14 @@ Permite realizar operaciones matemáticas simples como suma, resta, multiplicaci
   • PyInstaller (para la creación del ejecutable .exe)
 
 ## 📂 Estructura del proyecto
-
+```
   Calculadora/
   │── src/
   │   └── calculadora.py
   │── assets/
   │   └── calculadora.ico
   │── README.md
+```
 
 ## 📖 Instrucciones de uso
   1. Clonar el repositorio o descargar los archivos.
