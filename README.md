@@ -47,4 +47,4 @@ Permite realizar operaciones matemáticas simples como suma, resta, multiplicaci
   4. Adaptar la aplicación para Android o Web.
 
 ## 👨‍💻 Autor
-  Proyecto desarrollado por Iván Narciso Guzmán Hernández como práctica académica/personal y para fortalecer habilidades en Python y desarrollo de interfaces gráficas.
+  Proyecto desarrollado por **Iván Narciso Guzmán Hernández** como práctica académica/personal y para fortalecer habilidades en Python y desarrollo de interfaces gráficas.
