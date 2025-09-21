@@ -35,14 +35,16 @@ Permite realizar operaciones matemáticas simples como suma, resta, multiplicaci
 
 ## ⚙️ Cómo compilar el ejecutable
   1. Si deseas generar tu propio .exe:
+     ```
         pyinstaller --onefile --noconsole --name=Calculadora --icon=assets/calculadora.ico calculadora.py
-  2. El ejecutable se guardará en la carpeta dist/.
+     ```
+  3. El ejecutable se guardará en la carpeta dist/.
 
 ## ✨ Posibles mejoras
-  • Agregar más operaciones matemáticas (potencias, raíces, logaritmos).
-  • Implementar un historial de operaciones.
-  • Mejorar el diseño visual de la interfaz.
-  • Adaptar la aplicación para Android o Web.
+  1. Agregar más operaciones matemáticas (potencias, raíces, logaritmos).
+  2. Implementar un historial de operaciones.
+  3. Mejorar el diseño visual de la interfaz.
+  4. Adaptar la aplicación para Android o Web.
 
 ## 👨‍💻 Autor
   Proyecto desarrollado por Iván Narciso Guzmán Hernández como práctica académica/personal y para fortalecer habilidades en Python y desarrollo de interfaces gráficas.
