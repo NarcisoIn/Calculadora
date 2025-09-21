@@ -12,10 +12,10 @@ Permite realizar operaciones matemáticas simples como suma, resta, multiplicaci
   4. Manejo de errores básicos (ejemplo: división entre cero).
   5. Posibilidad de ampliación (nuevas funciones matemáticas).
 
-## 🚀 Tecnologías utilizadas
-  • Python 3.14
-  • Tkinter (para la GUI)
-  • PyInstaller (para la creación del ejecutable .exe)
+## 🚀 Tecnologías utilizadas 
+1. Python 3.14
+2. Tkinter (para la GUI)
+3. PyInstaller (para la creación del ejecutable .exe)
 
 ## 📂 Estructura del proyecto
 ```
